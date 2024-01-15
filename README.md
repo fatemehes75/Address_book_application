@@ -4,9 +4,9 @@ This repository contains two versions of an address book application project imp
 
 ## Features
 ### Common Features
-. Encapsulation: Demonstrated strong OOP skills by organizing the project into encapsulated classes, including Contacts and AddressBookManager.
-. Inheritance: Utilized inheritance to share common functionalities between different parts of the project, enhancing code reuse and maintainability.
-. Polymorphism: Applied polymorphism to allow flexibility with different object types, making the code adaptable and extensible.
+- Encapsulation: Demonstrated strong OOP skills by organizing the project into encapsulated classes, including Contacts and AddressBookManager.
+- Inheritance: Utilized inheritance to share common functionalities between different parts of the project, enhancing code reuse and maintainability.
+- Polymorphism: Applied polymorphism to allow flexibility with different object types, making the code adaptable and extensible.
 
 Command-Line Interface (CLI) Version
 Implemented a modular address book application using a command-line interface for user interaction.
